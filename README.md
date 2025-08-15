@@ -43,8 +43,8 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone
+cd https://github.com/ri34ehs/rneder/tree/main
 Install the required libraries:
 
 Bash
